@@ -1,0 +1,7 @@
+El login es el proceso que identifica y verifica a un usuario antes de darle acceso a ciertas funciones 
+de una aplicación. Algunas rutas deben estar protegidas porque permiten realizar acciones administrativas 
+o acceder a información interna y privada. Si estas áreas fueran públicas, cualquier persona sin autorización 
+podría alterar el sistema o ver datos que no le corresponden. Por motivos de seguridad, nunca se deben 
+exponer públicamente contraseñas, documentos de identidad ni direcciones personales. Tampoco es seguro 
+mostrar números de teléfono, tokens de autenticación, claves de API ni registros financieros o privados. Al 
+proteger estas rutas y datos sensibles, se garantiza la privacidad de los usuarios y la seguridad en toda la plataforma.

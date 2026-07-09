@@ -1,0 +1,8 @@
+Una plataforma que promueve la participación ciudadana necesita una base de datos para guardar la información
+de forma organizada y facilitar su consulta. También requiere autenticación de usuarios para identificar quién 
+utiliza la plataforma y controlar el acceso a ciertas funciones. Esto ayuda a evitar usos indebidos y mejora 
+la seguridad del sistema. La protección de la información es importante porque algunos datos pueden ser privados 
+o sensibles. Si estos datos quedan expuestos, podrían afectar a las personas o a la comunidad. 
+
+Además, la seguridad genera confianza en los usuarios. Gracias a estos elementos, la plataforma puede funcionar 
+de manera más ordenada, segura y confiable. Así, los ciudadanos pueden participar con mayor tranquilidad.

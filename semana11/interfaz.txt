@@ -1,0 +1,12 @@
+La interfaz tendría un formulario donde los usuarios puedan crear un nuevo reporte ingresando un título, 
+una descripción y una categoría. 
+
+También mostraría una lista con los reportes disponibles para que la comunidad pueda consultarlos fácilmente. 
+
+Cada reporte tendría un botón para mostrar apoyo o interés en su solución. 
+
+Además, se visualizaría un contador que indique cuántas personas han apoyado cada reporte. 
+
+La interfaz debe ser sencilla, organizada y fácil de usar. N
+
+o debe mostrar información privada de los usuarios para proteger su seguridad y privacidad.
